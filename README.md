@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @trashdoughnut
-- 👀 I’m interested in ... trash cans, doughnuts, and dumpsters behind bakeries.
-- 🌱 I’m currently learning ... Front End Software Development
+- 👋 Hi, I’m Kateland, aka trash doughnut
+- 👀 I’m interested in ... trash cans, doughnuts, and software programming!
+- 🌱 I’m currently learning ... Front End Software Development (specifically javascript at the moment)
 - 💞️ I’m looking to collaborate on ... nothing right now, babes
 - 📫 How to reach me ... cowdoginc@gmail.com
 
